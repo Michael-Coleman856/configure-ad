@@ -9,11 +9,6 @@ In this Azure lab, two virtual machines are deployed: one running Windows Server
 </p>
 Active Directory Domain Services (AD DS) is installed on the Windows Server 2025 VM, promoting it to a domain controller for a new forest named mydomain.com—a forest is the top-level container in Active Directory that holds one or more domains, defining the security and replication boundary for the entire directory structure. Next, the Windows 11 client VM joins the mydomain.com domain by using its updated DNS settings to locate the domain controller, enabling centralized authentication and group policy management. Remote Desktop is then configured on the client VM to allow non-administrative domain users to log in remotely. Finally, a PowerShell script automates the creation of additional user accounts in Active Directory, streamlining user provisioning and ensuring consistent setup across the lab environment.
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Configuring On-Premises Active Directory within Azure Virtual Machines](https://youtu.be/G0eNWoRuSdE)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
