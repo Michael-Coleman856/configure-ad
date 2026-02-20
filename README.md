@@ -1,4 +1,4 @@
-  <img src="https://raw.githubusercontent.com/tylergehm/configure-ad/main/az1.jpg" alt="GitHub banner" style="max-width:100%;height:auto;" />
+  <<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a05de11-0ee2-41de-860c-651fefc0d9fb" />
 </p>
 
 <h1>Configuring On-Premises Active Directory within Azure Virtual Machines</h1>
