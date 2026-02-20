@@ -1,4 +1,4 @@
-  <<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a05de11-0ee2-41de-860c-651fefc0d9fb" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2a05de11-0ee2-41de-860c-651fefc0d9fb" />
 </p>
 
 <h1>Configuring On-Premises Active Directory within Azure Virtual Machines</h1>
@@ -38,7 +38,7 @@ Active Directory Domain Services (AD DS) is installed on the Windows Server 2025
 
 <h2>Deployment and Configuration Process</h2>
 
-For a detailed explanation of creating Virtual Machines, please visit the project [Creating Virtual Machines in Azure Portal](https://github.com/tylergehm/vm)
+For a detailed explanation of creating Virtual Machines, please visit the project [Creating Virtual Machines in Azure Portal](https://github.com/Michael-Coleman856/VM)
 </p>
 <h2>Step 1- Create a Domain Controller Virtual  Machine</h2>
 This project will begin by setting up a domain controller virtual machine (VM) in the Azure Portal.
